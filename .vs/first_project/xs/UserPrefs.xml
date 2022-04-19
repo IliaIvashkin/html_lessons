@@ -1,15 +1,15 @@
-﻿<Properties StartupConfiguration="{250AA7C4-3EA5-42B9-8D38-0C06C22CD6F6}|Default">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{250AA7C4-3EA5-42B9-8D38-0C06C22CD6F6}|Default">
   <MonoDevelop.Ide.ItemProperties.first__project PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="for_comit_html">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="for_comit_html" Line="10" Column="8" />
+      <File FileName="for_comit.html" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="first_project" expanded="True">
             <Node name="first_project" expanded="True">
-              <Node name="for_comit_html" selected="True" />
+              <Node name="for_comit.html" selected="True" />
             </Node>
           </Node>
         </State>
