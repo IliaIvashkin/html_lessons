@@ -22,6 +22,6 @@
     <None Include="colors.html" />
     <None Include="comments.html" />
     <None Include="tables.html" />
-    <None Include="for_comit_html.txt" />
+    <None Include="for_comit_html" />
   </ItemGroup>
 </Project>
