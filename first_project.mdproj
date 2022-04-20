@@ -38,5 +38,7 @@
     <None Include="bdi.html" />
     <None Include="wbr.html" />
     <None Include="for media inc.txt" />
+    <None Include="index.html" />
+    <None Include="style.css" />
   </ItemGroup>
 </Project>
