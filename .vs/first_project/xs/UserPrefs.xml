@@ -1,30 +1,17 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{250AA7C4-3EA5-42B9-8D38-0C06C22CD6F6}|Default">
   <MonoDevelop.Ide.ItemProperties.first__project PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="EmptyTextFile.txt">
+  <MonoDevelop.Ide.Workbench ActiveDocument="aside.html">
     <Files>
-      <File FileName="for_comit.html" Line="1" Column="1" />
-      <File FileName="HTML5_intro.html" Line="30" Column="8" />
-      <File FileName="figure.html" Line="12" Column="8" />
-      <File FileName="main.html" Line="17" Column="8" />
-      <File FileName="adress.html" Line="13" Column="8" />
-      <File FileName="footer.html" Line="9" Column="8" />
-      <File FileName="EmptyHtmlFile.html" Line="10" Column="8" />
-      <File FileName="section.html" Line="16" Column="8" />
-      <File FileName="article.html" Line="12" Column="8" />
-      <File FileName="nav.html" Line="18" Column="8" />
-      <File FileName="figcaption.html" Line="12" Column="8" />
-      <File FileName="time.html" Line="10" Column="8" />
-      <File FileName="mark.html" Line="9" Column="8" />
-      <File FileName="bdi.html" Line="10" Column="8" />
-      <File FileName="wbr.html" Line="12" Column="8" />
-      <File FileName="EmptyTextFile.txt" Line="1" Column="1" />
+      <File FileName="index.html" Line="1" Column="1" />
+      <File FileName="style.css" Line="1" Column="1" />
+      <File FileName="aside.html" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="first_project" expanded="True">
             <Node name="first_project" expanded="True">
-              <Node name="EmptyTextFile.txt" selected="True" />
+              <Node name="aside.html" selected="True" />
             </Node>
           </Node>
         </State>

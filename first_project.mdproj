@@ -37,6 +37,6 @@
     <None Include="mark.html" />
     <None Include="bdi.html" />
     <None Include="wbr.html" />
-    <None Include="EmptyTextFile.txt" />
+    <None Include="for media inc.txt" />
   </ItemGroup>
 </Project>
