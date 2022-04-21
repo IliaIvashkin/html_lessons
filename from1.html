@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="form_style.css">
+    <title>Форма</title>
+</head>
+<body>
+    <p>На этой странице я буду учиться создавать формы</p>
+    <form action="/my-handling-form-page" method="post"> <!--Форма отправки отзыва-->
+        <ul>
+            <li>
+                <label for="name">Ваше Имя:</label>
+                <input type="text" id="name" name="user_name">
+            </li>
+            <li>
+                <label for="mail">Ваш e-mail:</label>
+                <input type="email" id="mail" name="user_mail">
+            </li>
+            <li>
+                <label for="msg">Ваше сообщение:</label>
+                <textarea id="msg" name="user_message"></textarea>
+            </li>
+            <li class="button">
+                <button type="submit">Отправить</button>
+            </li>
+        </ul>
+    </form>
+    <form>
+        <fieldset>
+            <!--Форма "заказа"-->
+            <legend>Fruit juice size</legend>
+            <p>
+                <input type="radio" name="size" id="size_1" value="small">
+                <label for="size_1">Small</label>
+            </p>
+            <p>
+                <input type="radio" name="size" id="size_2" value="medium">
+                <label for="size_2">Medium</label>
+            </p>
+            <p>
+                <input type="radio" name="size" id="size_3" value="large">
+                <label for="size_3">Large</label>
+            </p>
+        </fieldset>
+    </form>
+    <form> <!--Форма "опрсоника"-->
+        <p>
+            <label for="taste_1">I like cherry</label>
+            <input type="checkbox" id="taste_1" name="taste_cherry" value="1">
+        </p>
+        <p>
+            <label for="taste_2">I like banana</label>
+            <input type="checkbox" id="taste_2" name="taste_banana" value="2">
+        </p>
+    </form>
+</body>
+</html>
+
+<!--submit reset button три типа кнопки, каждый отвечает за свое действие:
+    submit - отправляет форму по указанному в action атрибуте адресу
+    reset - сбрасывает значения всех элементов управления формы к их начальному значению.
+            С точки зрения UX, это считается плохой практикой
+    button - не делает ничего! Звучит странно, но на самом деле это очень удобно
+    использовать для создания собственных кнопок — вы можете определить их поведение через JavaScript.-->

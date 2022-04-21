@@ -40,5 +40,7 @@
     <None Include="for media inc.txt" />
     <None Include="index.html" />
     <None Include="style.css" />
+    <None Include="from1.html" />
+    <None Include="form_style.css" />
   </ItemGroup>
 </Project>
