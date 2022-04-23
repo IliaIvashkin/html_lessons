@@ -7,25 +7,28 @@
 </head>
 <body>
     <p>На этой странице я буду учиться создавать формы</p>
-    <form action="/my-handling-form-page" method="post"> <!--Форма отправки отзыва-->
+    <form action="/my-handling-form-page" method="post">
+        <!--Форма отправки отзыва-->
         <ul>
             <li>
-                <label for="name">Ваше Имя:</label>
-                <input type="text" id="name" name="user_name">
+                <label for="name">Ваше Имя*:</label>
+                <input type="text" id="name" name="user_name" placeholder="Ваше Имя" required>
             </li>
             <li>
-                <label for="mail">Ваш e-mail:</label>
-                <input type="email" id="mail" name="user_mail">
+                <label for="mail">Ваш e-mail*:</label>
+                <input type="email" id="mail" name="user_mail" placeholder="Ваш e-mail" required>
             </li>
             <li>
-                <label for="msg">Ваше сообщение:</label>
-                <textarea id="msg" name="user_message"></textarea>
+                <label for="msg">Ваше сообщение*:</label>
+                <textarea id="msg" name="user_message" placeholder="Текст Вашего сообщения" required></textarea>
             </li>
             <li class="button">
                 <button type="submit">Отправить</button>
             </li>
         </ul>
+        <p .special>Поля отмеченные "*" являются обязательными, к заполнению</p .special>
     </form>
+
     <form>
         <fieldset>
             <!--Форма "заказа"-->
