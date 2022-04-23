@@ -22,6 +22,25 @@
     <None Include="colors.html" />
     <None Include="comments.html" />
     <None Include="tables.html" />
-    <None Include="for_comit_html" />
+    <None Include="for_comit.html" />
+    <None Include="HTML5_intro.html" />
+    <None Include="figure.html" />
+    <None Include="main.html" />
+    <None Include="adress.html" />
+    <None Include="footer.html" />
+    <None Include="aside.html" />
+    <None Include="section.html" />
+    <None Include="article.html" />
+    <None Include="nav.html" />
+    <None Include="figcaption.html" />
+    <None Include="time.html" />
+    <None Include="mark.html" />
+    <None Include="bdi.html" />
+    <None Include="wbr.html" />
+    <None Include="for media inc.txt" />
+    <None Include="index.html" />
+    <None Include="style.css" />
+    <None Include="from1.html" />
+    <None Include="form_style.css" />
   </ItemGroup>
 </Project>
