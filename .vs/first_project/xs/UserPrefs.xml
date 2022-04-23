@@ -1,12 +1,18 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{250AA7C4-3EA5-42B9-8D38-0C06C22CD6F6}|Default">
   <MonoDevelop.Ide.ItemProperties.first__project PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="form_style.css">
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="first_project" expanded="True">
             <Node name="first_project" expanded="True">
-              <Node name="form_style.css" selected="True" />
+              <Node name="nav.html" selected="True" />
+              <Node name="section.html" selected="True" />
+              <Node name="style.css" selected="True" />
+              <Node name="tables.html" selected="True" />
+              <Node name="text_format.html" selected="True" />
+              <Node name="time.html" selected="True" />
+              <Node name="wbr.html" selected="True" />
             </Node>
           </Node>
         </State>
@@ -15,6 +21,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Default" />
+  <Debugger.DebugSourceFolders />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
