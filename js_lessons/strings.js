@@ -1,5 +1,7 @@
-'Привет мир!'
-"Нужно помнить о вежливости и говорить 'спасибо' и 'пожалуйста'"
+'Привет мир!';
+"Нужно помнить о вежливости и говорить 'спасибо' и 'пожалуйста'";
 
-"earthshake".length
-console.log("earthshake".length)
+"earthshake".length;
+"TOMATO".toLowerCase();
+'tomato'.toUpperCase();
+'   Стоит задуматься о пробелах в знании'.trim();

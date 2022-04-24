@@ -33,3 +33,9 @@ let name = "Джон";
 let admin;
 admin = name;
 alert(admin);
+"-------------------Задание-2------------------"
+let myPlanet = 'Земля';
+let currentUser;
+"-------------------Задание-3------------------"
+const BIRTHDAY = '18.04.1982';
+const age = someCode(BIRTHDAY)

@@ -1,4 +1,4 @@
 'Если нужно получить ответ да или нет используются булевые значения'
-var kitchenLights = false;
+let kitchenLights = false;
 kitchenLights = true;
 kitchenLights;
